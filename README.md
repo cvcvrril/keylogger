@@ -1,2 +1,2 @@
 # keylogger
-A simple keylogger made in Python
+Un keylogger simple y sencillo. 
